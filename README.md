@@ -5,6 +5,8 @@
 # A FullStack Developer
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibkhall&show_icons=true&theme=radical)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibkhall)](https://github.com/ibkhall/github-readme-stats)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibkhall&count_private=true)
 
 
