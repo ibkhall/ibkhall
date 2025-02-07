@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a knack f
 - 🌱 I’m always learning new technologies and improving my skills in full-stack development.
 - 👯 I’m looking to collaborate on exciting projects that make a difference.
 - 💬 Ask me about anything related to software development, especially in Python, JavaScript, and cloud technologies.
-- 📫 How to reach me: [ibkhall@example.com](mailto:ibrahimkhall212@gmail.com)
+- 📫 How to reach me: [ibrahimkhall212@gmail.com](mailto:ibrahimkhall212@gmail.com)
 - ⚡ Fun fact: I love exploring new places and trying out different cuisines.
 
 ## 🛠️ Technologies & Tools
