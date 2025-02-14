@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a knack f
 
 ## 🛠️ Technologies & Tools
 
-- Languages: Python, JavaScript, TypeScript, Java, C++
+- Languages: Python, JavaScript, TypeScript, Java, Kotlin, PHP
 - Frontend: React, Vue.js, HTML, CSS, Sass
-- Backend: Node.js, Express, Django, Flask
+- Backend: Spring boot, Laravel, Django
 - Databases: MySQL, PostgreSQL, MongoDB
 - DevOps: Docker, GitHub Actions
 - Others: Git, Linux, RESTful APIs, GraphQL
